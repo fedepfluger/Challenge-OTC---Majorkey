@@ -1,0 +1,22 @@
+{
+  "name": "challenge-otc---majorkey",
+  "version": "1.0.0",
+  "description": "Major Key Challenger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fedepfluger/Challenge-OTC---Majorkey.git"
+  },
+  "author": "Federico Pflüger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fedepfluger/Challenge-OTC---Majorkey/issues"
+  },
+  "homepage": "https://github.com/fedepfluger/Challenge-OTC---Majorkey#readme",
+  "devDependencies": {
+    "cypress": "^9.2.1"
+  }
+}
