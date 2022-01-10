@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/fedepfluger/Challenge-OTC---Majorkey#readme",
   "devDependencies": {
-    "cypress": "^9.2.1"
+    "cypress": "^9.2.1",
+    "cypress-xpath":"^1.6.2"
   }
 }
