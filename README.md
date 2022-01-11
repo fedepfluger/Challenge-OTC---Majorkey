@@ -5,12 +5,12 @@ In this challenge I will carry out the exercises proposed in the file "QA Automa
 # installation, configuration and execution
 Go to the root directory of the project
 Run the `npm install` command to install the corresponding dependencies
-Run the `node ./node_modules/cypress/bin/cypress open` command to open cypress
+Run the `node ./node_modules/cypress/bin/cypress open` or `npx cypress open` command to open cypress
 
 # Refinement items
 
 ## Selector to use: 
-	In this case I use the XPath selectors to simplify access to DOM elements because the other types of selectors were too long for me
+	In this case I use the XPath selectors to simplify access to DOM elements
     
 ## Point 5: Capture – Open/Market Cap
 	The 2 requested values ​​were captured, but with the first value, no action or validation was indicated to be performed
